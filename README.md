@@ -20,9 +20,9 @@
 Cursed Entertainment 2025
 </div>
 
-"
+'''
 pip install speedtest-cli
-"
+'''
 
  <br> 
 <div align="center">
