@@ -15,14 +15,14 @@
   </div>
   <br>
 
+```bash
+pip install speedtest-cli
+```
 <br>
 <div align="center">
 Cursed Entertainment 2025
 </div>
 
-```bash
-pip install speedtest-cli
-```
 
  <br> 
 <div align="center">
