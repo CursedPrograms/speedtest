@@ -18,9 +18,17 @@
   </div>
 <br>
 
+## How to Run:
+
+### Install Requirements
+
+Using Python directly:
+
 ```bash
 pip install -r requirements.txt
 ```
+Or run: 
+- `install_requirements.bat`
 
 ```bash
 pip install speedtest-cli
